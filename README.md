@@ -6,13 +6,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 I’m currently working on **Php,Data Science**
+- 🔭 I’m currently working on **Rust,Data Science**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Rust,Python**
 
 - 📝 I regularly write articles on [Data Science](Data Science)
 
-- 💬 Ask me about **C++,Python,.NET,Data Science**
+- 💬 Ask me about **C,Python,.NET,Data Science**
 
 - 📫 How to reach me **sarthaktripathi218@gmail.com**
 
